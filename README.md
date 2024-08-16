@@ -2,13 +2,13 @@
 This is a simple weather application built using React and TypeScript, which fetches real-time weather data from the OpenWeatherMap API. The app allows users to search for the current weather conditions in any city around the world.
 
 ## Features
-**Real-Time Weather Data**: Get the current temperature, humidity, and wind speed for any city.
+**Real-Time Weather Data**: Get the current temperature, humidity, and wind speed for any city.<br/>
 **Weather Icons**: Dynamic icons based on the weather conditions (clear, cloudy, rainy, etc.).
 
 ## Tech Stack
-**Frontend**: React, TypeScript
-**API**: OpenWeatherMap API
-**CSS**: Custom styles using CSS
+**Frontend**: React, TypeScript<br/>
+**API**: OpenWeatherMap API<br/>
+**CSS**: Custom styles using CSS</br>
 
 ## Installation
 
