@@ -1,6 +1,9 @@
 # Weather App 🌦️
 This is a simple weather application built using React and TypeScript, which fetches real-time weather data from the OpenWeatherMap API. The app allows users to search for the current weather conditions in any city around the world.
 
+## Live Demo
+Check out the live app: [Weather App](#https://weather-app-rho-khaki.vercel.app/)
+
 ## Features
 **Real-Time Weather Data**: Get the current temperature, humidity, and wind speed for any city.<br/>
 **Weather Icons**: Dynamic icons based on the weather conditions (clear, cloudy, rainy, etc.).
